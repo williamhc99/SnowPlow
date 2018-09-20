@@ -9,15 +9,17 @@ The rules for the next grid to plow is a 1 that is adjacent or diagonal to a 0 u
 Example:
 
 Grid before snowplow:
-1 1 1 1 1 
-1 1 1 1 1 
-1 1 1 2 2 
-1 1 2 1 2 
-2 1 2 1 2 
+
+1 1 1 1 1 <br />
+1 1 1 1 1 <br />
+1 1 1 2 2 <br />
+1 1 2 1 2 <br />
+2 1 2 1 2 <br />
 
 Grid after snowplow:
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 2 2 
-0 0 2 0 2 
-2 0 2 0 2 
+
+0 0 0 0 0 <br />
+0 0 0 0 0 <br />
+0 0 0 2 2 <br />
+0 0 2 0 2 <br />
+2 0 2 0 2 <br />
